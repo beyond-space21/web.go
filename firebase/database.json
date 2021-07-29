@@ -1,0 +1,18 @@
+{
+  "keys": {
+    "settings": "link",
+    "pages": "link",
+    "podcasts": "link",
+    "events": "link",
+    "moves": "link",
+    "announcements": "link"
+  },
+  "settings": {
+    "addkeys": {},
+    "pages": {},
+    "podcasts": {},
+    "events": {},
+    "moves": {},
+    "announcements": {}
+  }
+}
